@@ -1,0 +1,2 @@
+modified_data = data replace (" !","?")
+print (modified _data)
