@@ -1,0 +1,2 @@
+position = data. find ("rules")
+print (position)
