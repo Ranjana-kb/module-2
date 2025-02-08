@@ -1,0 +1,2 @@
+uppucase_data=data upper()
+print (uppercase_data)
