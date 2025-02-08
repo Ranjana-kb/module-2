@@ -1,0 +1,11 @@
+decimal= int input (" Enter a decimal integer:"))
+if decimal ==0:
+print(0)
+else :
+print( "Quotient remainder Binary")
+bitstring=" "
+while decimal >0:
+remainder: decimal 1%2
+decimal = decimal//2
+bitstring=(remainder)+ bitstring
+print ("%5d %8d%12s" % (decimal,remainder, bitstring
